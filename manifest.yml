@@ -1,0 +1,4 @@
+applications:
+  - name: hello-pcf-app
+    memory: 768M
+    path: target/app-1.0-SNAPSHOT.war
